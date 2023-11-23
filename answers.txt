@@ -1,0 +1,15 @@
+1. a bunny creature in a black box with the title: node.js websockets lab
+click drag will move the egg bunny and turn it red.
+making a new tab, will cause the bunny to start in the previous location.
+the tabs are not indipendent.
+
+2. 
+javascript 
+- dynamically typed
+- subset of type script 
+- hard to maintain in large code bases
+
+type script
+- statically typed
+- super set of javascript
+- improves code quality (better readability and maintainability)
