@@ -13,3 +13,24 @@ type script
 - statically typed
 - super set of javascript
 - improves code quality (better readability and maintainability)
+
+3. 
+bundlers help manage dependencies
+help with code splitting
+optimize code by removing unnecessary things
+source maps to help optimize code
+
+parcelJS
+- 0 config setup
+- built in asset support
+- automatic dependency resolution
+- easy to use
+
+
+4. 
+websocket.connecting (0) -- the connection is being established
+websocket.open (1) -- connection is established and is now open
+websocket.closing (2) -- in the process of being closed
+web socket.closed (3) -- websocket connection is closed. Can't be reopened.
+
+5. https://github.com/Gentoxic/nodejs-ws-lab
